@@ -10,7 +10,7 @@ body{
 	margin: 0 auto;
 	overflow: auto;
 	box-shadow: 1px 1px 4px #000;
-	/*background: url("../Photos/wood4.jpg");*/
+	background: url("../Photos/wood4.jpg");
 }
 #header{
 	width: 900px;
@@ -21,7 +21,7 @@ body{
 #header h1{
 	padding-top: 60px;
 	padding-left: 20px;
-	font-family: "Permanent Marker";
+	font-family: Permanent Marker;
 	font-size: 38px;
 	color: rgba(0, 0, 0, 0.7);
 	display: inline-block;
@@ -31,16 +31,15 @@ body{
 #header span{
 	font-size: 22px;
 	font-weight: bold;
-	font-family: "Permanent Marker";
+	font-family: Permanent Marker;
 	/*float: right;*/
 	/*padding-top: 30px;*/
 	/*padding-right: 120px;*/
 	color: rgba(0, 0, 0, 0.7);
 	display: inline-block;
 }
-}
 h3{
-	font-family: "Shadows Into Light";
+	font-family: Shadows Into Light;
 	text-align: center
 }
 #links{
@@ -70,7 +69,7 @@ h3{
 	text-align: center;
 	text-decoration: none;
 	margin: 7px 22px;
-	font-family: "Permanent Marker";
+	font-family: Permanent Marker;
 	border-radius: 5px;
 }
 #nav ul li a:hover{
@@ -85,7 +84,7 @@ h3{
 	width: 584px;
 	margin: 0 auto;
 	margin-top: 20px;
-	/*background-image: url("../Photos/kartka2.jpg");*/
+	background-image: url("../Photos/kartka2.jpg");
 	box-shadow: 3px 3px 10px #000;
 	
 }
@@ -97,7 +96,7 @@ h3{
 	box-shadow: 1px 1px 4px #000;
 }
 p{
-	font-family: "Shadows Into Light";
+	font-family: Shadows Into Light;
 	text-indent: 20px;
 	padding: 10px;
 	text-align: justify;
@@ -113,15 +112,15 @@ p{
 	margin: 0 auto;	
 	overflow: auto;
 	box-shadow: 1px 1px 4px #000;
-	/*background: url("../Photos/wood4.jpg");*/
+	background: url("../Photos/wood4.jpg");
 }
 #footer p{
-	font-family: "Permanent Marker";
+	font-family: Permanent Marker;
 	font-size: 1.1em;
 }
 #Skills, #Goals{
 	float: left;
-	/*background-image: url("../Photos/kartka2.jpg");*/
+	background-image: url("../Photos/kartka2.jpg");
 	width: 584px;
 	margin: 0 auto;
 }
@@ -136,7 +135,7 @@ p{
 #con{
 	list-style: circle;
 	text-decoration: none;
-	font-family: "Shadows Into Light";
+	font-family: Shadows Into Light;
 }
 #social img{
 	box-shadow: none;
@@ -147,5 +146,8 @@ p{
 	margin-top: 20px;
 	margin-left: 200px;
 	margin-bottom: 20px;
+}
+#nav ul li a .active{
+	color: red;
 }
 </style>
