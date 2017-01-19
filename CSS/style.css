@@ -11,6 +11,7 @@ body{
 	overflow: auto;
 	box-shadow: 1px 1px 4px #000;
 	/*background: url("../Photos/wood4.jpg");*/
+	background: linear-gradient(to left, grey 0%, white 100%);
 }
 #header{
 	width: 900px;
