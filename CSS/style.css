@@ -148,5 +148,6 @@ p{
 	margin-bottom: 20px;
 }
 #nav ul li a.active{
-	color: red;
+	color: grey;
+	text-decoration: underline;
 }
