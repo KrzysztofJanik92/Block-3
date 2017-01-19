@@ -10,7 +10,7 @@ body{
 	margin: 0 auto;
 	overflow: auto;
 	box-shadow: 1px 1px 4px #000;
-	background: url("../Photos/wood4.jpg");
+	/*background: url("../Photos/wood4.jpg");*/
 }
 #header{
 	width: 900px;
@@ -81,7 +81,7 @@ h3{
 	width: 584px;
 	margin: 0 auto;
 	margin-top: 20px;
-	background-image: url("../Photos/kartka2.jpg");
+	/*background-image: url("../Photos/kartka2.jpg");*/
 	box-shadow: 3px 3px 10px #000;
 	
 }
@@ -109,7 +109,7 @@ p{
 	margin: 0 auto;	
 	overflow: auto;
 	box-shadow: 1px 1px 4px #000;
-	background: url("../Photos/wood4.jpg");
+	/*background: url("../Photos/wood4.jpg");*/
 }
 #footer p{
 	font-family: Permanent Marker;
@@ -117,7 +117,7 @@ p{
 }
 #Skills, #Goals{
 	float: left;
-	background-image: url("../Photos/kartka2.jpg");
+	/*background-image: url("../Photos/kartka2.jpg");*/
 	width: 584px;
 	margin: 0 auto;
 }
