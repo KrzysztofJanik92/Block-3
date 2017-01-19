@@ -19,18 +19,22 @@ body{
 	box-shadow: 3px 3px 10px #000;
 }
 #header h1{
-	padding-top: 140px;
+	padding-top: 60px;
 	padding-left: 20px;
 	font-family: Permanent Marker;
 	font-size: 38px;
 	color: rgba(0, 0, 0, 0.7);
+	display: inline-block;
+	width: 110px;
+	line-height: 1.0em;
 }
 #header span{
 	font-family: Permanent Marker;
-	float: right;
-	padding-top: 135px;
-	padding-right: 120px;
+	/*float: right;*/
+	/*padding-top: 30px;*/
+	/*padding-right: 120px;*/
 	color: rgba(0, 0, 0, 0.7);
+	display: inline-block;
 }
 h3{
 	font-family: Shadows Into Light;
