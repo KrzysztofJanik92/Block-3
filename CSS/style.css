@@ -25,7 +25,7 @@ body{
 	font-size: 38px;
 	color: rgba(0, 0, 0, 0.7);
 }
-#header h2{
+#header span{
 	font-family: Permanent Marker;
 	float: right;
 	padding-top: 135px;
