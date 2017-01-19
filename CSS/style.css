@@ -45,13 +45,13 @@ h3{
 }
 #links{
 	width: 900px;
-	background: white;
 }
 #nav{
 	width: 584px;
 	height: 36px;
 	margin: 0 auto;
 	box-shadow: 3px 3px 10px #000;
+	background: white;
 }
 #nav ul{
 	list-style-type: none;
