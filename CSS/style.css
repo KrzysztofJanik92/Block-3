@@ -21,7 +21,7 @@ body{
 #header h1{
 	padding-top: 60px;
 	padding-left: 20px;
-	font-family: Permanent Marker;
+	font-family: "Permanent Marker";
 	font-size: 38px;
 	color: rgba(0, 0, 0, 0.7);
 	display: inline-block;
@@ -31,7 +31,7 @@ body{
 #header span{
 	font-size: 22px;
 	font-weight: bold;
-	font-family: Permanent Marker;
+	font-family: "Permanent Marker";
 	/*float: right;*/
 	/*padding-top: 30px;*/
 	/*padding-right: 120px;*/
@@ -40,7 +40,7 @@ body{
 }
 }
 h3{
-	font-family: Shadows Into Light;
+	font-family: "Shadows Into Light";
 	text-align: center
 }
 #links{
@@ -70,16 +70,13 @@ h3{
 	text-align: center;
 	text-decoration: none;
 	margin: 7px 22px;
-	font-family: Permanent Marker;
+	font-family: "Permanent Marker";
 	border-radius: 5px;
 }
 #nav ul li a:hover{
 	border: 1px solid rgba(0, 0, 0, 0.5);
 	border-radius: 5px;
 	box-shadow: 3px 3px 10px #000;
-}
-#nav ul li a .current, #nav ul li a .current:hover{
-	text-decoration: underline;
 }
 #about{
 	width: 900px;
@@ -100,7 +97,7 @@ h3{
 	box-shadow: 1px 1px 4px #000;
 }
 p{
-	font-family: Shadows Into Light;
+	font-family: "Shadows Into Light";
 	text-indent: 20px;
 	padding: 10px;
 	text-align: justify;
@@ -119,7 +116,7 @@ p{
 	/*background: url("../Photos/wood4.jpg");*/
 }
 #footer p{
-	font-family: Permanent Marker;
+	font-family: "Permanent Marker";
 	font-size: 1.1em;
 }
 #Skills, #Goals{
@@ -139,7 +136,7 @@ p{
 #con{
 	list-style: circle;
 	text-decoration: none;
-	font-family: Shadows Into Light;
+	font-family: "Shadows Into Light";
 }
 #social img{
 	box-shadow: none;
