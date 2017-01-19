@@ -29,12 +29,15 @@ body{
 	line-height: 1.0em;
 }
 #header span{
+	font-size: 22px;
+	font-weight: bold;
 	font-family: Permanent Marker;
 	/*float: right;*/
 	/*padding-top: 30px;*/
 	/*padding-right: 120px;*/
 	color: rgba(0, 0, 0, 0.7);
 	display: inline-block;
+}
 }
 h3{
 	font-family: Shadows Into Light;
